@@ -4,7 +4,7 @@
 **`Software Developer`**
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,aws,git,github,figma,selenium)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,aws,git,github,figma,selenium)
 
 
 ---
@@ -78,15 +78,11 @@ To secure a **Software Development role** where I can contribute to building imp
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(www.linkedin.com/in/phaneendraperavarapu/)*
-* 📧 Email: *(phaneewhat@gmail.com)*
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/phaneendraperavarapu/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](phaneewhat@gmail.com)
+
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy exploring movies not just for entertainment, but for their **creative and technical aspects 🎬**
-
----
 
 ⭐ *Feel free to explore my repositories and give a star if you like my work!*

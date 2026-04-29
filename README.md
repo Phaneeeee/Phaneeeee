@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Phaneendra
+# 🐐 Phaneendra Peravarapu
 
-🎓 B.Tech Computer Science Graduate (2024)
-💻 Aspiring Software Developer
-📍 Andhra Pradesh, India
+
+**`Software Developer`**
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,aws,git,github,figma,selenium)](https://skillicons.dev)
+
 
 ---
 

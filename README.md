@@ -4,7 +4,7 @@
 **`Software Developer`**
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,aws,git,github,figma,selenium)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,flask,fastapi,mysql,postgres,aws,git,github,figma,selenium)
 
 
 ---
